@@ -2,7 +2,7 @@
 
 Project Objective
 
-The UrbanBloom Store Data Analysis Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
+The UrbanBloom Store Data Analysis Store wants to create an annual sales report for 2022. So that, the owner of the  UrbanBloom store can understand their customers and grow more sales in 2023.
 
 Questions (KPIs)
 •	Compare the sales and orders using single chart.
